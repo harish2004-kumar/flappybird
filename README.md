@@ -18,4 +18,4 @@ This is a simple clone of the classic Flappy Bird game, where the player control
 # Acknowledgments
 * Inspired by the original Flappy Bird game created by Dong Nguyen
 
-<img src="images/flappy-bird-screenshot.png" alt="Flappy Bird Screenshot" width="500"/>
+<img src="images/Screenshot (9).png" alt="Flappy Bird Screenshot" width="500"/>
